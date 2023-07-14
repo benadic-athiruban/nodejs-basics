@@ -1,0 +1,14 @@
+HTTP -> Hyper Text Transfer Protocol
+A Protocol for Transferring Data which is understood by Browser and Server
+
+HTTPS -> Hyper Text Transfer Protocol Secure
+HTTP + Data Encryption (during Transmission)
+
+Core Modules
+---------------
+
+http -> Launch a server or send requests
+https -> Launch a SSL server
+fs -> 
+path -> 
+os -> 
